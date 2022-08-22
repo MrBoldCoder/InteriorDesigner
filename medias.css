@@ -425,6 +425,10 @@
     width: clamp(19rem, 70vw, 100rem);
     margin-left: 5rem;
   }
+  
+  .abme3 {
+    margin-bottom:0;
+  }
 
   .ctmetext {
     width: clamp(20rem, 65vw, 100rem);
