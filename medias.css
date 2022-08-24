@@ -659,13 +659,7 @@
 } */
 
 @media (max-width: 380px) and (max-height: 700px) {
-  /* .landing {
-    height: 100vh;
-  } */
-  .ulmobilenav {
-    
-    padding-top: 3rem;
-  }
+  
 
   .ulmobile {
     padding-bottom: 5rem;
