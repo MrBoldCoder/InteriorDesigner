@@ -260,7 +260,7 @@
   .headermobile {
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
-    background-color: #82be61de;
+    background: linear-gradient(to right, #56ab2f, #a8e063);
   }
 
   .btn-mobile-nav {
@@ -383,7 +383,7 @@
     margin-top: clamp(1rem, 6vw, 8rem);
   }
   .headermobile {
-    background-color: #82be61de;
+    background: linear-gradient(to right, #56ab2f, #a8e063);
     padding: 0;
     padding-bottom: 1.8rem;
     padding-top: 1.8rem;
@@ -689,18 +689,4 @@
       }
 }
 
-@media (device-width: 428px) {
-  margin-top:0;
-}
 
-@media (-webkit-device-pixel-ratio: 3) { 
-margin-top:0;
-}
-  
-@media only screen and (-webkit-min-device-pixel-ratio: 3) {
-    margin-top:0;
-}
-
-@media (min-width: 420px) and (max-width:428px) {
-  margin-top:0;
-}
