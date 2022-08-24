@@ -364,7 +364,7 @@
   .imgss {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    
   }
   .h3 {
     font-size: clamp(1rem, 4vw, 3rem);
