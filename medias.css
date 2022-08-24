@@ -480,17 +480,13 @@
     height: 50vh;
   }
 
-  .aa {
-    margin: 4rem auto;
-  }
+ 
 
   .ee {
     margin-bottom: 0;
   }
 
-  .cc {
-    margin-top: 0;
-  }
+  
 }
 
 @media (max-width: 480px) {
@@ -606,7 +602,7 @@
   }
 
   .ulmobilenav {
-    top: -35rem;
+    top: -22rem;
   }
 }
 
