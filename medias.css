@@ -684,7 +684,9 @@
     and (device-width: 428px) 
     
     and (-webkit-device-pixel-ratio: 3) { 
-margin-top:0;
+.ulmobilenav {
+  margin-top:0;
+      }
 }
 
 @media (device-width: 428px) {
