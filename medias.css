@@ -267,9 +267,7 @@
     top: 15px;
   }
 
-  .ulmobilenav {
-    top: -30rem;
-  }
+ 
 }
 
 @media (max-width: 800px) {
