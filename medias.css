@@ -341,9 +341,7 @@
    grid-template-rows: auto;
   }
   
-  .ulmobilenav {
-    margin-top: 0;
-  }
+
   
   .prt{
     width: 90%
@@ -680,4 +678,11 @@
   .gallerypage {
     margin-top: 10rem;
   }
+}
+
+@media only screen 
+    and (device-width: 428px) 
+    and (device-height: 926px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+margin-top:0;
 }
