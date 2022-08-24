@@ -340,6 +340,14 @@
   .imgss{
    grid-template-rows: auto;
   }
+  
+  .ulmobilenav {
+    margin-top: 0;
+  }
+  
+  .prt{
+    width: 90%
+  }
 }
 
 @media (max-width: 700px) {
