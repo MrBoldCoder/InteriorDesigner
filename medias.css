@@ -485,6 +485,10 @@
   .ee {
     margin-bottom: 0;
   }
+  
+  .ulmobile{
+    padding-top: 2rem;
+  }
 
   
 }
@@ -602,7 +606,7 @@
   }
 
   .ulmobilenav {
-    top: -22rem;
+    top: -24.5rem;
   }
 }
 
